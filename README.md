@@ -1,3 +1,5 @@
+this is an unofficial conversion to redm
+
 # bd_loadingscreen
 This script was made for you by **BebikDEV**. We will be glad for any support on our **discord: https://discord.gg/4VwXy4aDBd**
 
