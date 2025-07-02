@@ -1,4 +1,5 @@
 this is an unofficial conversion to redm
+If you want the loadingscreen to stop directly at char creation you need to change the trigger inside the lua files to your frameworks char select / init trigger
 
 # bd_loadingscreen
 This script was made for you by **BebikDEV**. We will be glad for any support on our **discord: https://discord.gg/4VwXy4aDBd**
